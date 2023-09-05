@@ -1,7 +1,7 @@
 - 👋 Welcome!, I’m Frankline Nyateng.
 - 👀 Looking to venure into the field of data science.
 - 🌱 I’m currently learning and doing projects in Python.
-- 💞️ I’m looking to collaborate on data science in general
+- 💞️ I’m looking to collaborate on Data science, Python, Machine Learning, Deep Learning, AI.
 - 📫 How to reach me:
 - nyatengfrankline@gmail.com
 - https://twitter.com/nyateng_Jr
